@@ -1,0 +1,2 @@
+# game.trap
+NOT DESCRIPTION
